@@ -1,0 +1,2 @@
+# Return the number of chickens and rabbits when given the total number of legs and heads of the animals combined.
+e.g. how many chickens and rabbits are there, when given that there are 35 heads and 94 legs? 
