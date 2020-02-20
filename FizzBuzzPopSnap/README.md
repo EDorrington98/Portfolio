@@ -1,0 +1,2 @@
+# If the input number is divisible by 3 return Fizz, if divisible by 5 return Buzz, if divisible by 7 return Pop, if divisible by 11 return Snap
+e.g. 15 would return "FizzBuzz", and 21 would return FizzPop
